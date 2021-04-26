@@ -12,6 +12,7 @@
   <body> 
 	<?php
 		echo "現在是PHP的顯示";
+	  	echo "<br>這是第二列文字";
 	?>	
   </body>
 </html>
